@@ -77,11 +77,14 @@ Using the data from `MOCK_DATA.json`, do the following
 
 7. Find the largest age gap between two consecutive people.
 8. Count the number of males that are younger than 43 but older than 22.
-9. Count the number of people who starts their first name with the letter L. 
+9. Count the number of people who starts their first name with the letter L.  
 
-10. Count the average age of everyone who is between the ages of 35 and 80 and their last name starts with the letter D. 
+10. Count the average age of everyone who is between the ages of 35 and 80 and their last name starts with the letter D.  
 11. Increment the age with 1 year for everyone that has a first name that starts with letter K and last name that ends with letter s. 
 
+
+#### How to run project 
+npm run test
 
 #### Exercise 12
 Write tests for at least 6 of the previous exercises using jest. Tests look a bit different in jest but they are quite easy,
